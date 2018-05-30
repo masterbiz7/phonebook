@@ -17,6 +17,6 @@ class App extends Component {
 }
 
 export default connect(
-  state => ({});
-  dispatch => ({});
+  state => ({}),
+  dispatch => ({})
 )(App);
